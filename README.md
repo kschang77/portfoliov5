@@ -6,10 +6,20 @@ Items in this repo are incident response, audits, and analysis as a part of my a
 
 I started the course on May 31st. I hope to finish the entire course in less than 7 days. As of 6/2/2023 2:30AM, I've finished course 3 of 8. Wish me luck! 
 
-Course 1: Foundations of Cybersecurity: https://www.coursera.org/account/accomplishments/verify/QGV8TYHAYR2K
+Course 1: Foundations of Cybersecurity, completed 5/31/23 
+https://www.coursera.org/account/accomplishments/verify/QGV8TYHAYR2K
+  Security Audit Compliance Checklist https://github.com/kschang77/portfoliov5/blob/main/Compliance%20checklist.pdf
+  Security Audit Controls Assessment
+ https://github.com/kschang77/portfoliov5/blob/main/Compliance%20checklist.pdf
+  Stakeholder Memorandum https://github.com/kschang77/portfoliov5/blob/main/Stakeholder%20memorandum.pdf
 
-Course 2: Play It Safe: Manage Security Risks: https://www.coursera.org/account/accomplishments/verify/EGCMAREH88GW
+Course 2: Play It Safe: Manage Security Risks, completed 6/1/23 https://www.coursera.org/account/accomplishments/verify/EGCMAREH88GW
+  Cybersecurity Incident Report / Network Traffic Analysis https://github.com/kschang77/portfoliov5/blob/main/Cybersecurity%20incident%20report%20network%20traffic%20analysis.pdf
+  Cybersecurity Incident Report Continued https://github.com/kschang77/portfoliov5/blob/main/Cybersecurity%20incident%20report.pdf
 
-Course 3: Connect and Protect: Networks and Network Security: https://www.coursera.org/account/accomplishments/verify/FAD6FFEWLM3G
+Course 3: Connect and Protect: Networks and Network Security, completed 6/2/23 https://www.coursera.org/account/accomplishments/verify/FAD6FFEWLM3G
+  Security Risk Asssessment: https://github.com/kschang77/portfoliov5/blob/main/Security%20risk%20assessment%20report.pdf
+  Security Incident Report: https://github.com/kschang77/portfoliov5/blob/main/Security%20incident%20report%20template.pdf
+  Incident Report Analysis: https://github.com/kschang77/portfoliov5/blob/main/Incident%20report%20analysis.pdf
 
 Course 4: Tools of the Trade: Linux and SQL: starting soon!
