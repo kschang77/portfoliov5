@@ -28,8 +28,17 @@ Course 3: Connect and Protect: Networks and Network Security, [completed 6/2/23]
   
   > [Incident Report Analysis](https://github.com/kschang77/portfoliov5/blob/main/Incident%20report%20analysis.pdf)
 
-Course 4: Tools of the Trade: Linux and SQL: 85% complete
+Course 4: Tools of the Trade: Linux and SQL: [Completed 6/2/23](https://www.coursera.org/account/accomplishments/verify/6AE4D5VMX5UG)
 
 > [Table Format](https://github.com/kschang77/portfoliov5/blob/main/Table%20formats.pdf) used for subsequent SQL demo
 
 > [Apply filters to SQL Queries demo](https://github.com/kschang77/portfoliov5/blob/main/Apply%20filters%20to%20SQL%20queries.pdf) (uses tables described in Table Format)
+
+Course 5: Assets, Threats, and Vulnerabilities: starting soon! 
+
+Course 6: Sound the Alarm! Detection and Response
+
+Course 7: Automate Cybersecurity tasks with Python
+
+Course 8: Put it to Work: Prepare to Cybersecurity Jobs
+
