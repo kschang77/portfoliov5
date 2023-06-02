@@ -12,7 +12,7 @@ Course 1: Foundations of Cybersecurity, [completed 5/31/23](https://www.coursera
 
   > [Security Audit Controls Assessment](https://github.com/kschang77/portfoliov5/blob/main/Compliance%20checklist.pdf)
 
-  > [Stakeholder Memorandum] (https://github.com/kschang77/portfoliov5/blob/main/Stakeholder%20memorandum.pdf)
+  > [Stakeholder Memorandum](https://github.com/kschang77/portfoliov5/blob/main/Stakeholder%20memorandum.pdf)
 
 Course 2: Play It Safe: Manage Security Risks, [completed 6/1/23](https://www.coursera.org/account/accomplishments/verify/EGCMAREH88GW)
 
