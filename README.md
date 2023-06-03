@@ -36,7 +36,11 @@ Course 4: Tools of the Trade: Linux and SQL: [Completed 6/2/23](https://www.cour
 
 Course 5: Assets, Threats, and Vulnerabilities: [completed 6/3/23](https://www.coursera.org/account/accomplishments/verify/K3JF8J76ZD7S)
 
+> [Access Control Worksheet](https://github.com/kschang77/portfoliov5/blob/main/Access%20control%20worksheet.pdf)
+
 Course 6: Sound the Alarm! Detection and Response: starting 6/2/23 1000
+
+> Incident Report Analysis
 
 Course 7: Automate Cybersecurity tasks with Python
 
