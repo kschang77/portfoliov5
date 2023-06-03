@@ -38,9 +38,8 @@ Course 5: Assets, Threats, and Vulnerabilities: [completed 6/3/23](https://www.c
 
 > [Access Control Worksheet](https://github.com/kschang77/portfoliov5/blob/main/Access%20control%20worksheet.pdf)
 
-Course 6: Sound the Alarm! Detection and Response: starting 6/3/23 1000
+Course 6: Sound the Alarm! Detection and Response: starting 6/3/23 1000 -- 95% complete as of 1500 hours same day, just need to update incident response journal, with all practice incidents
 
-> [Incident handler's Journal](https://github.com/kschang77/portfoliov5/blob/main/Incident%20handler's%20journal%20.pdf)
 
 Course 7: Automate Cybersecurity tasks with Python
 
