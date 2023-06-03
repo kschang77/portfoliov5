@@ -34,7 +34,7 @@ Course 4: Tools of the Trade: Linux and SQL: [Completed 6/2/23](https://www.cour
 
 > [Apply filters to SQL Queries demo](https://github.com/kschang77/portfoliov5/blob/main/Apply%20filters%20to%20SQL%20queries.pdf) (uses tables described in Table Format)
 
-Course 5: Assets, Threats, and Vulnerabilities: start 6/2/2023 2100
+Course 5: Assets, Threats, and Vulnerabilities: [completed 6/3/23](https://www.coursera.org/account/accomplishments/verify/K3JF8J76ZD7S)
 
 Course 6: Sound the Alarm! Detection and Response
 
