@@ -42,9 +42,9 @@ Course 6: Sound the Alarm! Detection and Response: [completed 6/3/23](https://ww
 
 > [Incident handler's journal](https://github.com/kschang77/portfoliov5/blob/main/Incident%20handler's%20journal%20%20(2).pdf)
 
-Course 7: Automate Cybersecurity tasks with Python: started 6/3/23
+Course 7: Automate Cybersecurity tasks with Python: [completed 6/4/23](https://www.coursera.org/account/accomplishments/verify/DQEU8PYA7BUL)
 
 > [Algorithm for file updates in Python](https://github.com/kschang77/portfoliov5/blob/main/Algorithm%20for%20file%20updates%20in%20Python.pdf)
 
-Course 8: Put it to Work: Prepare to Cybersecurity Jobs
+Course 8: Put it to Work: Prepare to Cybersecurity Jobs  (need to go to sleep!)
 
