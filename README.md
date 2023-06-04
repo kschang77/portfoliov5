@@ -4,6 +4,8 @@ I am Kasey Chang. I have always enjoyed working with technology and solving comp
 
 Items in this repo are incident response, audits, and analysis as a part of my attempt to earn a Google Cybersecurity Certificate. I already have [Google IT Support](https://www.coursera.org/account/accomplishments/professional-cert/9LZTXXTZSDJV) and other certificates. 
 
+And now I have successfully completed [Google Cybersecurity Certificate](https://www.coursera.org/account/accomplishments/professional-cert/5PS4UGXW7P37) as of 6/4/23. Can I find a job? 
+
 I started the course on May 31st. I hope to finish the entire course in less than 7 days. As of 6/3/2023 0315, I've finished course 5. Wish me luck!
 
 Course 1: Foundations of Cybersecurity, [completed 5/31/23](https://www.coursera.org/account/accomplishments/verify/QGV8TYHAYR2K)
@@ -47,5 +49,6 @@ Course 7: Automate Cybersecurity tasks with Python: [completed 6/4/23](https://w
 
 > [Algorithm for file updates in Python](https://github.com/kschang77/portfoliov5/blob/main/Algorithm%20for%20file%20updates%20in%20Python.pdf) (It's a good thing I [already know Python!](https://www.coursera.org/account/accomplishments/professional-cert/NWFAAQPTAHCJ))
 
-Course 8: Put it to Work: Prepare to Cybersecurity Jobs: starting 6/4/23
+Course 8: Put it to Work: Prepare to Cybersecurity Jobs: [completed 6/4/23](https://www.coursera.org/account/accomplishments/professional-cert/5PS4UGXW7P37)
 
+In case anyone is reading this... know of someone in San Francisco looking for a junior cybersecurity analyst? 
