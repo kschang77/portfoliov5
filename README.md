@@ -2,7 +2,7 @@
 
 I am Kasey Chang. I have always enjoyed working with technology and solving complex problems. As a new cybersecurity analyst, I am committed to applying my existing IT and programming knowledge, as well as cybersecurity best practices and utilizing security tools to safeguard people from evolving cyber threats and breaches. 
 
-Items in this repo are incident response, audits, and analysis as a part of my attempt to earn a Google Cybersecurity Certificate. I already have Google IT Support and other certificates. 
+Items in this repo are incident response, audits, and analysis as a part of my attempt to earn a Google Cybersecurity Certificate. I already have [Google IT Support](https://www.coursera.org/account/accomplishments/professional-cert/9LZTXXTZSDJV) and other certificates. 
 
 I started the course on May 31st. I hope to finish the entire course in less than 7 days. As of 6/3/2023 0315, I've finished course 5. Wish me luck!
 
@@ -44,7 +44,7 @@ Course 6: Sound the Alarm! Detection and Response: [completed 6/3/23](https://ww
 
 Course 7: Automate Cybersecurity tasks with Python: [completed 6/4/23](https://www.coursera.org/account/accomplishments/verify/DQEU8PYA7BUL)
 
-> [Algorithm for file updates in Python](https://github.com/kschang77/portfoliov5/blob/main/Algorithm%20for%20file%20updates%20in%20Python.pdf)
+> [Algorithm for file updates in Python](https://github.com/kschang77/portfoliov5/blob/main/Algorithm%20for%20file%20updates%20in%20Python.pdf) (It's a good thing I [already know Python!](https://www.coursera.org/account/accomplishments/professional-cert/NWFAAQPTAHCJ)
 
-Course 8: Put it to Work: Prepare to Cybersecurity Jobs  (need to go to sleep!)
+Course 8: Put it to Work: Prepare to Cybersecurity Jobs: starting 6/4/23
 
