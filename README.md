@@ -44,7 +44,7 @@ Course 6: Sound the Alarm! Detection and Response: [completed 6/3/23](https://ww
 
 Course 7: Automate Cybersecurity tasks with Python: [completed 6/4/23](https://www.coursera.org/account/accomplishments/verify/DQEU8PYA7BUL)
 
-> [Algorithm for file updates in Python](https://github.com/kschang77/portfoliov5/blob/main/Algorithm%20for%20file%20updates%20in%20Python.pdf) (It's a good thing I [already know Python!](https://www.coursera.org/account/accomplishments/professional-cert/NWFAAQPTAHCJ)
+> [Algorithm for file updates in Python](https://github.com/kschang77/portfoliov5/blob/main/Algorithm%20for%20file%20updates%20in%20Python.pdf) (It's a good thing I [already know Python!](https://www.coursera.org/account/accomplishments/professional-cert/NWFAAQPTAHCJ))
 
 Course 8: Put it to Work: Prepare to Cybersecurity Jobs: starting 6/4/23
 
