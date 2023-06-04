@@ -29,6 +29,7 @@ Course 3: Connect and Protect: Networks and Network Security, [completed 6/2/23]
   > [Incident Report Analysis](https://github.com/kschang77/portfoliov5/blob/main/Incident%20report%20analysis.pdf)
 
 Course 4: Tools of the Trade: Linux and SQL: [Completed 6/2/23](https://www.coursera.org/account/accomplishments/verify/6AE4D5VMX5UG)
+> It's a good thing [I already know SQL](https://www.coursera.org/account/accomplishments/specialization/3ML9NP54B24N)
 
 > [Table Format](https://github.com/kschang77/portfoliov5/blob/main/Table%20formats.pdf) used for subsequent SQL demo
 
