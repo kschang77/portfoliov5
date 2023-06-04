@@ -44,7 +44,7 @@ Course 6: Sound the Alarm! Detection and Response: [completed 6/3/23](https://ww
 
 Course 7: Automate Cybersecurity tasks with Python: started 6/3/23
 
-> this can be completed as it does require programming, good thing I do know a little Python from before!
+> [Algorithm for file updates in Python](https://github.com/kschang77/portfoliov5/blob/main/Algorithm%20for%20file%20updates%20in%20Python.pdf)
 
 Course 8: Put it to Work: Prepare to Cybersecurity Jobs
 
