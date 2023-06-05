@@ -4,9 +4,7 @@ I am Kasey Chang. I have always enjoyed working with technology and solving comp
 
 Items in this repo are incident response, audits, and analysis as a part of my attempt to earn a Google Cybersecurity Certificate. I already have [Google IT Support](https://www.coursera.org/account/accomplishments/professional-cert/9LZTXXTZSDJV) and other certificates. 
 
-And now I have successfully completed [Google Cybersecurity Certificate](https://www.coursera.org/account/accomplishments/professional-cert/5PS4UGXW7P37) as of 6/4/23. Can I find a job? 
-
-I started the course on May 31st. I hope to finish the entire course in less than 7 days. As of 6/3/2023 0315, I've finished course 5. Wish me luck!
+I started the course on May 31st. I have successfully completed [Google Cybersecurity Certificate](https://www.coursera.org/account/accomplishments/professional-cert/5PS4UGXW7P37) as of 6/4/23. Can I find a job? 
 
 Course 1: Foundations of Cybersecurity, [completed 5/31/23](https://www.coursera.org/account/accomplishments/verify/QGV8TYHAYR2K)
 
