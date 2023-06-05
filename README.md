@@ -52,3 +52,5 @@ Course 7: Automate Cybersecurity tasks with Python: [completed 6/4/23](https://w
 Course 8: Put it to Work: Prepare to Cybersecurity Jobs: [completed 6/4/23](https://www.coursera.org/account/accomplishments/professional-cert/5PS4UGXW7P37)
 
 In case anyone is reading this... know of someone in San Francisco looking for a junior cybersecurity analyst? 
+
+or would you rather read one of my OTHER portfolios instead? Maybe [Version 2](https://kschang77.github.io/portfoliov2/)? How about [version 3](https://kschang77.github.io/portfoliov3/) and [version 4](https://kschang77.github.io/portfoliov4/)?
